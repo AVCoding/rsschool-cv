@@ -24,4 +24,4 @@ HTML5, CSS3, Bootstrap 4, JavaScript, JQuery, Framework7, AJAX, JSON, ASP.NET Co
 ***
 * **English** (Reading-B2, Writing-B2, Speaking-B2, Listening-B2)
 * **Russian** (Reading-C2, Writing-C1, Speaking-C1, Listening-C1)
-* **Armenian** (Native)
+* **Armenian** (Native) 
