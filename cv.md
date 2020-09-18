@@ -2,9 +2,9 @@
 
 #### Contacts
 ***
-**Mobile**  &nbsp;+374-95-033253
-**Email** &nbsp;vagharshak1992@mail.ru , vagharshak1992@gmail.com
-**Skype** &nbsp;avoavo529
+* **Mobile**  &nbsp;+374-95-033253
+* **Email** &nbsp;vagharshak1992@mail.ru , vagharshak1992@gmail.com
+* **Skype** &nbsp;avoavo529
 
 ### Summary
 ***
@@ -16,9 +16,9 @@ HTML5, CSS3, Bootstrap 4, JavaScript, JQuery, Framework7, AJAX, JSON, ASP.NET Co
 
 ### Education
 ***
-**( 2017 ) C# / Object-Oriented Programming -** Microsoft Innovation Center Armenia, Yerevan (Armenia)
-**( 2008-2013 ) Thermal Power Engineering -** State Engineering University of Armenia, Yerevan (Armenia)
-**( 200-2010 ) Accounting -** Yerevan basic college of Haybusak University, Yerevan (Armenia)
+* **( 2017 ) C# / Object-Oriented Programming -** Microsoft Innovation Center Armenia, Yerevan (Armenia)
+* **( 2008-2013 ) Thermal Power Engineering -** State Engineering University of Armenia, Yerevan (Armenia)
+* **( 200-2010 ) Accounting -** Yerevan basic college of Haybusak University, Yerevan (Armenia)
 
 ### Languages
 ***
