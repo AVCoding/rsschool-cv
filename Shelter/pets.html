@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Our pets</title>
+    <link rel="stylesheet" href="./assets/css/pets.css">
+
+    <!--    Slick Slider-->
+    <link rel="stylesheet" type="text/css" href="assets/css/slick.css"/>
+</head>
+<body>
+
+
+<!-- Pet popup -->
+<div class="learn-more-popup" data-popup="learn-more-popup-disabled">
+    <div class="pop-container">
+        <div class="close-popup">
+        </div>
+        <div class="pop-wrapper">
+            <div class="pop-pet-img">
+
+            </div>
+            <div class="pop-pet-description">
+                <h3>Jennifer</h3>
+                <h4>Dog - Labrador</h4>
+                <p>Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.</p>
+                <ul>
+                    <li><h5>Age:</h5><span> 2 months</span></li>
+                    <li><h5>Inoculations:</h5><span> none</span></li>
+                    <li><h5>Diseases:</h5><span> none</span></li>
+                    <li><h5>Parasites:</h5><span> none</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Pet popup -->
+
+<header>
+    <div class="container">
+        <nav>
+            <div class="nav-logo">
+                <h3>Cozy House</h3>
+                <p>Shelter for pets in Boston</p>
+            </div>
+            <div class="nav-menu">
+                <a href="index.html" >About the shelter</a>
+                <a href="pets.html" class="active">Our pets</a>
+                <a href="#sc-3" class="to-shelter-help">Help the shelter</a>
+                <a href="#footer" class="shelter-contacts">Contacts</a>
+            </div>
+            <div class="burger-menu">
+                <img src="assets/images/burger-closed.svg" alt="burger-closed" class="burger-open">
+            </div>
+        </nav>
+    </div>
+    <!-- Mobile navigation menu-->
+    <div class="mob-container">
+        <div class="mob-wrapper">
+            <div class="mob-nav">
+                <div class="mob-nav-logo">
+                    <h3>Cozy House</h3>
+                    <p>Shelter for pets in Boston</p>
+                </div>
+                <div class="mob-burger-menu">
+                    <img src="assets/images/burger-opened.svg" alt="burger-opened" class="burger-close">
+                </div>
+            </div>
+            <div class="mob-nav-menu">
+                <span><a href="index.html" class="shelter-about">About the shelter</a></span>
+                <span><a href="pets.html" class="active">Our pets</a></span>
+                <span><a href="#sc-3" class="to-shelter-help">Help the shelter</a></span>
+                <span><a href="#footer" class="shelter-contacts">Contacts</a></span>
+            </div>
+        </div>
+    </div>
+    <!-- End Mobile navigation menu-->
+</header>
+
+<section class="sc-1" >
+    <div class="container">
+        <h3>Our friends who <br>are looking for a house</h3>
+        <div class="all-pets">
+
+        </div>
+        <div class="pagination">
+            <button class="page  step-prev-two" data-click="-2" ><span><<</span></button>
+            <button class="page  step-prev-one" data-click="-1" ><span><</span></button>
+             <input type="text" class="page page-current" value="1" readonly="readonly">
+            <button class="page page-active step-one" data-click="1" ><span>></span></button>
+            <button class="page page-active step-two" data-click="2"><span>>></span></button>
+        </div>
+    </div>
+</section>
+
+<footer id="footer">
+    <div class="container">
+        <div class="contacts-1">
+            <h3>For questions and suggestions</h3>
+            <div class="email">
+                <img src="assets/images/icon-email.svg" alt="icon-email"><span>email@shelter.com</span>
+            </div>
+            <div class="phone">
+                <img src="assets/images/icon-phone.svg" alt="icon-phone"><a href="tel:+13 674 567 75 54">+13 674 567 75 54</a>
+            </div>
+        </div>
+
+        <div class="contacts-2">
+            <h3>We are waiting for your visit</h3>
+            <div class="address-1">
+                <img src="assets/images/address.svg" alt="icon-address"><span>1 Central Street, Boston <br>(entrance from the store)</span>
+            </div>
+            <div class="address-2">
+                <img src="assets/images/address.svg" alt="icon-address"><span>18 South Park, London </span>
+            </div>
+        </div>
+
+        <div class="puppy">
+            <img src="assets/images/footer-puppy.svg" alt="img-footer-puppy">
+        </div>
+    </div>
+</footer>
+
+
+<!--Slick Slider-->
+<script type="text/javascript" src="assets/js/jquery-3.5.1.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="assets/slick/slick.min.js"></script>
+<!-- Main Script -->
+<script type="text/javascript" src="assets/js/main.js"></script>
+</body>
+</html>
