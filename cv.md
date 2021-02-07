@@ -12,7 +12,7 @@ I am a full stack web developer, open minded and passionated about the things I 
 
 ### Skills
 ***
-HTML5, CSS3, Bootstrap 4, JavaScript, JQuery, Framework7, AJAX, JSON, ASP.NET Core, C#, ADO.NET, MS SQL Server, Postman
+HTML5, CSS3, SASS, Bootstrap 4, JavaScript, JQuery, Framework7, AJAX, JSON, ASP.NET Core, C#, ADO.NET, MS SQL Server, Postman
 
 ### Education
 ***
